@@ -1,0 +1,97 @@
+# ===============================
+# Python Version
+# ===============================
+# requires-python >=3.10,<3.13
+
+
+# ===============================
+# LangChain Core
+# ===============================
+langchain
+langchain-core
+langchain-community
+
+
+# ===============================
+# LLM Providers
+# ===============================
+# OpenAI
+langchain-openai
+openai
+
+# Anthropic
+langchain-anthropic
+
+# Google Gemini
+langchain-google-genai
+google-generativeai
+
+# Hugging Face
+langchain-huggingface
+huggingface-hub
+transformers
+accelerate
+
+# Groq
+langchain-groq
+groq
+
+# Local LLM
+ollama
+
+
+# ===============================
+# Vector Stores / Retrievers
+# ===============================
+chromadb
+faiss-cpu
+wikipedia
+duckduckgo-search
+arxiv
+pymed
+
+
+# ===============================
+# Embeddings
+# ===============================
+sentence-transformers
+
+
+# ===============================
+# ML / Utils
+# ===============================
+numpy
+scikit-learn
+torch
+sentencepiece
+protobuf
+frozendict
+tqdm
+pydantic
+
+
+# ===============================
+# Web / Parsing
+# ===============================
+requests
+beautifulsoup4
+lxml
+pypdf
+
+
+# ===============================
+# App / UI
+# ===============================
+streamlit
+
+
+# ===============================
+# Env Management
+# ===============================
+python-dotenv
+
+
+# ===============================
+# Visualization
+# ===============================
+graphviz
