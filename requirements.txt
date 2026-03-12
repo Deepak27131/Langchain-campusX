@@ -89,7 +89,7 @@ streamlit
 # Env Management
 # ===============================
 python-dotenv
-
+ipykernel
 
 # ===============================
 # Visualization
